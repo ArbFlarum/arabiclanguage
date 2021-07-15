@@ -1,0 +1,24 @@
+{
+    "name": "arabic",
+    "title": "العربية",
+    "description": "ملفات اللغة العربية بواسطة FlarumArabia.com",
+    "keywords": ["العربية"],
+    "version": "0.1.0",
+    "author": {
+        "name": "Mohamed Elkaffas",
+        "email": "NoEmail"
+    },
+    "license": "MIT",
+    "require": {
+        "php": ">=5.5.0",
+        "flarum": "<=1.0.0"
+    },
+    "support": {
+        "source": "https://www.ar4bnet.com"
+    },
+    "icon": {
+        "name": "globe",
+        "backgroundColor": "#fabdEE",
+        "color": "#ad1519"
+    }
+}
